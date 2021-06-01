@@ -11,6 +11,7 @@
 
 # LWC Jest coverage reports
 coverage/
+JWT/
 
 # Logs
 logs
